@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Secrets
+.env
+*.env
+secrets/
+private/
+*.key
+*.pem
+
+# OS/editor
+.DS_Store
+.vscode/
+.cursor/
+
+# Data / outputs
+data/
+outputs/
+checkpoints/
+wandb/

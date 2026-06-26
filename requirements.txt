@@ -1,0 +1,11 @@
+torch
+transformers
+datasets
+tokenizers
+scikit-learn
+matplotlib
+numpy
+jupyter
+ipykernel
+pytest
+ruff
